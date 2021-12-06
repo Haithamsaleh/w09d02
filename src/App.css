@@ -1,0 +1,7 @@
+.list {
+  border: 1px solid black;
+  margin: 100px;
+  justify-self:center;
+  justify-content: space-between;
+  text-align: center;
+}
